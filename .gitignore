@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+rag_clean_env/
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
